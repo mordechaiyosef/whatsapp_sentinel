@@ -35,8 +35,8 @@ friendly and free of political or heated debates.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/WPP_Whatsapp.git
-    cd WPP_Whatsapp
+    git clone https://github.com/mordechaiyosef/whatsapp_sentinel.git'
+    cd whatsapp_sentinel
     ```
 
 2. Install the required Python packages:
